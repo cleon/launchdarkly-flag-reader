@@ -29,7 +29,7 @@ Here are some ideas:
 
 ## Installation
 
-Download the latest plugin file here: **[launchdarkly-flag-reader.hpi](../)**
+Download the latest plugin file here: **[launchdarkly-flag-reader.hpi](../../releases/latest)**
 
 Install the plugin:
 
